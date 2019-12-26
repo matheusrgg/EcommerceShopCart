@@ -1,0 +1,40 @@
+Comecando esse projeto
+
+
+
+Cheguei na metade agora , comeco a perceber que ele usa
+bastante Class e dentro delas tem os metodos 
+
+
+agora no 
+o icones tao todos quebrados
+
+preciso arruma , que quando clico no cartao do produto nao
+abre o carrinho do lado
+
+
+36:33 NavBar is complete
+53:56 Working on HTML & CSS cart
+
+1:10 comeca a l;ogica do Javascript antes disso tudo layout
+1:59 tamo selecionando os botoes de cada produto, pelo que entendi
+    vai dizer se o item ta no carrinho
+
+2:09 pegando o item do storage  e comeca a trabalhar com ele
+
+2:13 fala sobre o spread operator no getBagButtons[...]
+
+2:21 quando vc clica em comprar , o icone no menu vai aumentar
+
+2:32 tamo pegando o item cartao { o que e esse Template Liretarues}e tornando dinamico
+
+2:41 Achieved great milestone
+
+2:56 Remove from cart or add 
+
+
+interessante ,achei isso nos comentarios:
+
+
+Could you add a payment method to the tutorial ? 
+Resposta: this is a backend feature, this is a frontend tutorial

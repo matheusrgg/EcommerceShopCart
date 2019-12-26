@@ -1,0 +1,36 @@
+class UI{
+    //most of the methods 
+    //everything thats going to be displayed on the screen
+    //much bigger
+
+
+    displayProducts(products){
+        // console.log(products)
+        let result='';
+        products.forEach(product =>{
+            result +=`    
+            
+            <!--single content-->
+            <article class="product">
+
+                <div class="img-container">
+                    <img src=${product.image} alt="" class="product-img">
+                    <button class="bag-btn"data-id=${product.id}>
+
+                    <i class="fa fa-shopping-cart">Add to the bag</i>
+
+                    </button>
+                </div>
+
+                <h3>${product.title}</h3>
+                <h4>$${product.price}</h4>
+            </article>
+
+            <!--endsinglecontent-->
+            
+        `})
+        productsDOM.innerHTML = result
+    }
+
+
+}
