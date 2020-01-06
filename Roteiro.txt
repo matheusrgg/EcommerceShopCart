@@ -1,6 +1,75 @@
-Comecando esse projeto
 
 
+
+
+
+
+10:00 Atè aqui ele fala das extensoes que ele usa
+13:00 Começou
+17:31 linkou o css e criou o arquivo app.js
+18:00 vai pega o font awesome
+20:00 Começa a next session 
+27:00 css hero
+(*resolvi toda buxa , o nome das parada tava errado e tinha coisa faltando tipo um 0 kkkkk , depois n vou entender)
+
+
+36:33 NavBar is complete
+53:56 Working on HTML & CSS cart
+
+1:10 comeca a l;ogica do Javascript antes disso tudo layout
+
+1:21  CHECKPOINT Focou em pegar os itens e mostrar na HOME
+
+1:31 fala sobre o item no JSON
+
+1:38 trabalhou bastante na Products class, but for the time being let minimize
+
+1:47  CHECKPOINT pega a array e roda um loop nela,
+
+add to bag 
+get information from this single Product 
+pega e retrieve do localstorage
+
+1:50 comeca a mecher na Class Storage, criando um Static Method
+
+1:54 if you have thousands of projects this doesnt make sense
+
+1:59 tamo selecionando os botoes de cada produto, pelo que entendi
+    vai dizer se o item ta no carrinho-->Nao to entendo muito a imoprtancia disso
+
+
+2:05 vendo se o item jà ta no cart ----> parei o estudoa qui ---> è pra tudo ta funcionando ?? 
+Cheguei até aqui , só que as funcionalidades do cart näo täo funcionando em nada, eu clico ele náo abre , 
+deixa eu testa agora se eu tiro o hidden lá aparece os itens que acabei de add. Ah daora o cart aparece ,
+só que näo tem nada dentro dele , só que o total ta funcionando !
+
+
+2:09  CHECKPOINT pegando o item do storage  e comeca a trabalhar com ele
+
+2:13 fala sobre o spread operator no getBagButtons[...]
+
+2:17 add amount  
+
+2:21 quando vc clica em comprar , o icone no menu vai aumentar
+
+2:32 tamo pegando o item cartao { o que e esse Template Liretarues}e tornando dinamico
+
+2-37 atë aqui vc clica e o número no cart aumenta
+2-39 Começa a explicar como o cart aparece com transition
+2:41 CheckPoint 
+     Achieved great milestone
+     AddEventListner para fechar o cart  
+
+     Mano depois de uma hora eu consegui arrumar era um erro de Syntaxe, pra varias kkkkk ,
+     agora o número aumenta sö que o cart quando clico näo abre, suave normarl
+     isso näo era pra tar rolando mesmo, o lance agora é que até aqui tudo certo  
+
+
+     
+
+2:56 Remove from cart or increase or decrease the ammount of the product
+
+Observaçöes
 
 Cheguei na metade agora , comeco a perceber que ele usa
 bastante Class e dentro delas tem os metodos 
@@ -11,27 +80,6 @@ o icones tao todos quebrados
 
 preciso arruma , que quando clico no cartao do produto nao
 abre o carrinho do lado
-
-
-36:33 NavBar is complete
-53:56 Working on HTML & CSS cart
-
-1:10 comeca a l;ogica do Javascript antes disso tudo layout
-1:59 tamo selecionando os botoes de cada produto, pelo que entendi
-    vai dizer se o item ta no carrinho
-
-2:09 pegando o item do storage  e comeca a trabalhar com ele
-
-2:13 fala sobre o spread operator no getBagButtons[...]
-
-2:21 quando vc clica em comprar , o icone no menu vai aumentar
-
-2:32 tamo pegando o item cartao { o que e esse Template Liretarues}e tornando dinamico
-
-2:41 Achieved great milestone
-
-2:56 Remove from cart or add 
-
 
 interessante ,achei isso nos comentarios:
 

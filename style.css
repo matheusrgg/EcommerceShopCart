@@ -201,6 +201,8 @@ body {
     transition: var(--mainTransition);
     transform: translateX(100%);
   }
+ 
+  /* the way we are going to acess with javascript will be through this to classes */
   .showCart {
     transform: translateX(0);
   }
@@ -224,6 +226,8 @@ body {
     letter-spacing: var(--mainSpacing);
     margin-bottom: 2rem;
   }
+
+
   /*---------- Cart Item -------------------- */
   .cart-item {
     display: grid;
